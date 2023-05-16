@@ -39,7 +39,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp; 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Python](https://img.shields.io/badge/python-CB3837?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-23007ACC?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=white)
 
 </br>
 </br>
