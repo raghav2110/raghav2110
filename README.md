@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-e4405f?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/raghav_heda)
 ![GitHub followers](https://img.shields.io/github/followers/raghav2110?label=Follow&style=social) &nbsp;
 
-### Glad to see you here! &nbsp; ![](<img alt = "profile views" src="https://komarev.com/ghpvc/?username=raghav2110&color=brightgreen">)
+### Glad to see you here! &nbsp; ! <img alt = "profile views" src="https://komarev.com/ghpvc/?username=raghav2110&color=brightgreen">
 
 I am a full-stack software engineer. I love programming, reading and traveling.
 
